@@ -1,2 +1,2 @@
 # node-eventEmitter
-Trabalhando com eventos no Nodejs
+Trabalhando com eventos no Nodejs ...
