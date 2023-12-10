@@ -1,5 +1,10 @@
 # Node eventEmitter
 
+O EventEmitter (Emissor de Eventos) é um módulo que facilita a comunicação/interação entre objetos no Node. O EventEmitter está no centro da arquitetura orientada a eventos assíncrona do Node. Muitos dos módulos internos do Node são herdados do EventEmitter, incluindo *frameworks* proeminentes, como o Express.js.
+
+
+## Como startar o projeto:
+
 Desenvolvido para prover agilidade no desenvolvimento de código Typescript / NodeJs.
 
 Os passos de uso são clonar o projeto e instalar as dependências:
